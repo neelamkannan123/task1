@@ -1,0 +1,48 @@
+.bg-container-1{
+    background-color:#191a1d;
+    height:100vh;
+}
+.nav-container{
+    background-color: #9aa5b1;
+    
+}
+.task-card{
+    background-color:#191a1d;
+    border-radius:20px;
+
+    
+}
+.heading{
+    color:white;
+    font-size: 30px;
+    font-family: roboto;
+}
+p{
+    color: #9aa5b1;
+}
+button{
+    background-color:#4b6cc1;
+    color:white;
+    background-size:cover;
+ 
+}
+.head{
+    color:#4b6cc1;
+    font-size:30px;
+}
+.alignment{
+    text-align:right;
+}
+.image{
+    width:200px;
+    border-radius:50%;
+}
+.styles{
+    border-color:#4b6cc1;
+  border-width:2px;
+    border-style: solid;
+
+    padding:6px;
+}
+
+
